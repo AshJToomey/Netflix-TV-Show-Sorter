@@ -22,6 +22,7 @@ pip install -r requirements.txt
 python sorter.py
 
 Then follow the prompt to choose a sort key:
+
 Sort shows by (rating / episodes / runtime):
 
 ## 📊 Chart Output
