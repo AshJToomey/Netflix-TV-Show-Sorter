@@ -14,6 +14,7 @@ This is a Python command-line program that sorts popular Netflix TV shows by rat
 - matplotlib (optional)
 
 Install with:
+
 pip install -r requirements.txt
 
 ## 🚀 How to Run
