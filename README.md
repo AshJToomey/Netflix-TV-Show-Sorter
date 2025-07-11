@@ -1,13 +1,27 @@
 # 🎬 Netflix TV Show Sorter
 
-This is a Python command-line program that sorts popular Netflix TV shows by rating, episodes, or runtime using three classic algorithms: **Bubble Sort**, **Merge Sort**, and **Quick Sort**. It compares the execution time of each algorithm and displays the results in the terminal.
+A Python command-line tool that lets you sort popular Netflix TV shows by rating, episode count, or runtime using three classic sorting algorithms: Bubble Sort, Merge Sort, and Quick Sort. It also compares and visualizes the execution time of each algorithm.
 
 ## 🔧 Features
-- Sort by: Rating, Episode count, or Runtime
-- Uses: Bubble, Merge, and Quick Sort
-- Measures and compares time taken for each algorithm
-- Displays sorted results clearly
-- Optional chart output using matplotlib
+✅ Sort TV shows by:
+
+⭐ Rating
+
+🎞️ Episode Count
+
+⏱️ Runtime (in minutes)
+
+✅ Implements classic algorithms:
+
+🫧 Bubble Sort
+
+🧩 Merge Sort
+
+⚡ Quick Sort
+
+✅ Measures and compares execution time for each algorithm
+✅ Displays sorted results in the terminal
+✅ Optional chart output using matplotlib
 
 ## 📦 Requirements
 - Python 3.x
@@ -19,11 +33,14 @@ pip install -r requirements.txt
 
 ## 🚀 How to Run
 
+1. Clone the repository or download the script
+
+2. Run the program:
 python sorter.py
 
-Then follow the prompt to choose a sort key:
-
-Sort shows by (rating / episodes / runtime):
+3. Follow the prompts:
+Sort shows by (rating / episodes / runtime):  
+Sort order? (asc / desc):
 
 ## 📊 Chart Output
 If you have matplotlib installed, it will show a bar chart comparing sort times.
