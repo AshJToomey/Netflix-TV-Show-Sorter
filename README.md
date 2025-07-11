@@ -20,7 +20,9 @@ A Python command-line tool that lets you sort popular Netflix TV shows by rating
 ⚡ Quick Sort
 
 ✅ Measures and compares execution time for each algorithm
+
 ✅ Displays sorted results in the terminal
+
 ✅ Optional chart output using matplotlib
 
 ## 📦 Requirements
